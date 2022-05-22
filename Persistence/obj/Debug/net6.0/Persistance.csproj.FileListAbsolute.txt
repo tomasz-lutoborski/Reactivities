@@ -1,0 +1,15 @@
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/bin/Debug/net6.0/Persistance.deps.json
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/bin/Debug/net6.0/Persistance.dll
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/bin/Debug/net6.0/Persistance.pdb
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/bin/Debug/net6.0/Domain.dll
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.csproj.AssemblyReference.cache
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.AssemblyInfoInputs.cache
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.AssemblyInfo.cs
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.csproj.CoreCompileInputs.cache
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.csproj.CopyComplete
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.dll
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/refint/Persistance.dll
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.pdb
+/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/Debug/net6.0/ref/Persistance.dll

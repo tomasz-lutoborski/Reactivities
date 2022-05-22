@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tomek/web-dev/projects/Reactivities/Domain/Domain.csproj",
+      "projectUniqueName": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/tomek/web-dev/projects/Reactivities/Domain/Domain.csproj",
+      "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj",
       "packagesPath": "/home/tomek/.nuget/packages/",
-      "outputPath": "/home/tomek/web-dev/projects/Reactivities/Domain/obj/",
+      "outputPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tomek/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

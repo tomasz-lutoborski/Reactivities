@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smGbeqrrD9Rvfk1h9Ckf+xnrNlHx7Etdms1VbCqTgbIYIJ+x9UXnSW7hBMnf2QrGfKitHNMuaEUc55Be8VzBqQ==",
+  "dgSpecHash": "0ZKccGYSRSWqdWRkrZlyg3VHpSCSRJEXcwNz6rnmqNcjpd3Vc8vBAGIAZjtGV5WMNT7AQllY4kWPkYYTLNVU9Q==",
   "success": true,
-  "projectFilePath": "/home/tomek/web-dev/projects/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mp/pYi9epqOHwaTppTD4p925MGAjP9+/vUXXBLVG7UUY9fdgBBbrkZtKJ9wFP8nBPdovmfcxVNtSat4un8LXg==",
+  "dgSpecHash": "G9YkuRtdhIEk+mbzHSgb28CAbChN5u/5le+92BwGpRzHfp2JSOxR7/A2+D+IOibIMD5lXi1ATTbgQ8+BFbr3tg==",
   "success": true,
-  "projectFilePath": "/home/tomek/web-dev/projects/reactivitites/API/API.csproj",
+  "projectFilePath": "/home/tomek/Desktop/web-development/projects/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/tomek/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qusrsOXKQDgzWLrKe+p+V1FJo7ugH6NSJROk4twReY2TFyPaWStofMu4QpzhZJYvcSgEMTaDKOVLW2dMetCphQ==",
+  "dgSpecHash": "kHib0n67jKJvqeWeb2RnafByqhDchJ5u+wawKlXNt5Kr5U1GirZuaWiy4kZcI9Qd2/gnVDA7zydQi12Ltl0b5Q==",
   "success": true,
-  "projectFilePath": "/home/tomek/web-dev/projects/Reactivities/Persistance/Persistance.csproj",
+  "projectFilePath": "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
