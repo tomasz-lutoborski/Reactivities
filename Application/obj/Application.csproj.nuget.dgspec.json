@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tomek/Desktop/web-development/projects/Reactivities/Application/Application.csproj": {}
+    "/home/tomek/Documents/web-dev/projects/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "/home/tomek/Desktop/web-development/projects/Reactivities/Application/Application.csproj": {
+    "/home/tomek/Documents/web-dev/projects/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tomek/Desktop/web-development/projects/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/home/tomek/Documents/web-dev/projects/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Application/Application.csproj",
+        "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Application/Application.csproj",
         "packagesPath": "/home/tomek/.nuget/packages/",
-        "outputPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Application/obj/",
+        "outputPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tomek/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj"
+              "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj"
               },
-              "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj": {
-                "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj"
+              "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/Persistance.csproj": {
+                "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/Persistance.csproj"
               }
             }
           }
@@ -44,6 +44,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,18 +69,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj": {
+    "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/home/tomek/.nuget/packages/",
-        "outputPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/obj/",
+        "outputPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tomek/.nuget/NuGet/NuGet.Config"
@@ -96,6 +106,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -111,18 +131,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj": {
+    "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj",
+        "projectUniqueName": "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/Persistance.csproj",
+        "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/Persistance.csproj",
         "packagesPath": "/home/tomek/.nuget/packages/",
-        "outputPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Persistence/obj/",
+        "outputPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tomek/.nuget/NuGet/NuGet.Config"
@@ -137,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/tomek/Desktop/web-development/projects/Reactivities/Domain/Domain.csproj"
+              "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/tomek/Documents/web-dev/projects/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -152,6 +172,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -167,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
