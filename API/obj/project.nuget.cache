@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "yQzOLrt/phsWhC/tSs24A0hevHR70BX9kHHsqDllp0EvLto6h7beTblqQ+qsDc1WnIi6JqPURDEoRfBQc5CY0A==",
+  "dgSpecHash": "7ce3dmYGP1xDec3TOeTmXrqt5tHeEs2io4hpVLo7OaXmYX4l4zPpjgme8NRLaxvdlc4lEV8P+2WTxEw9MUK30A==",
   "success": true,
   "projectFilePath": "/home/tomek/Documents/web-dev/projects/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/tomek/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.data.sqlite.core/6.0.5/microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore/6.0.5/microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.5/microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.5/microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
+    "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.design/6.0.5/microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.5/microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.5/microsoft.entityframeworkcore.sqlite.6.0.5.nupkg.sha512",
     "/home/tomek/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.5/microsoft.entityframeworkcore.sqlite.core.6.0.5.nupkg.sha512",

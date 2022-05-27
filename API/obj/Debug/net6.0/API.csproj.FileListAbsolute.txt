@@ -89,3 +89,5 @@
 /home/tomek/Documents/web-dev/projects/Reactivities/API/obj/Debug/net6.0/API.csproj.CopyComplete
 /home/tomek/Documents/web-dev/projects/Reactivities/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /home/tomek/Documents/web-dev/projects/Reactivities/API/obj/Debug/net6.0/ref/API.dll
+/home/tomek/Documents/web-dev/projects/Reactivities/API/bin/Debug/net6.0/Humanizer.dll
+/home/tomek/Documents/web-dev/projects/Reactivities/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll

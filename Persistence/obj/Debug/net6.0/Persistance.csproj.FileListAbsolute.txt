@@ -28,3 +28,11 @@
 /home/tomek/Documents/web-dev/projects/Reactivities/Persistence/obj/Debug/net6.0/refint/Persistance.dll
 /home/tomek/Documents/web-dev/projects/Reactivities/Persistence/obj/Debug/net6.0/Persistance.pdb
 /home/tomek/Documents/web-dev/projects/Reactivities/Persistence/obj/Debug/net6.0/ref/Persistance.dll
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.dll
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistance.dll
+\\wsl.localhost\Ubuntu\home\tomek\Documents\web-dev\projects\Reactivities\Persistence\obj\Debug\net6.0\Persistance.pdb
